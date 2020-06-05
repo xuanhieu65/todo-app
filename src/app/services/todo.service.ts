@@ -11,6 +11,7 @@ export class TodoService {
   private todos: Todo[];
   private filteredTodos: Todo[];
   private etrt = 2;
+  private etrt2323 = 2;
 
   constructor() { }
 }
