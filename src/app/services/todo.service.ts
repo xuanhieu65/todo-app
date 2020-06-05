@@ -10,6 +10,7 @@ export class TodoService {
 
   private todos: Todo[];
   private filteredTodos: Todo[];
+  private etrt = 2;
 
   constructor() { }
 }
