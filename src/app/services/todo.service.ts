@@ -14,6 +14,8 @@ export class TodoService {
   private etrt2323 = 2;
   private etrt23223233 = 2;
   private etrt232232312312asdasd323asd3 = 2;
+  hihi = 3;
+  hihi = 4;
 
   constructor() { }
 }
