@@ -11,6 +11,7 @@ export class TodoService {
   private todos: Todo[];
   private filteredTodos: Todo[];
   private test = 1;
+  private test2 = 2;
 
   constructor() { }
 }
